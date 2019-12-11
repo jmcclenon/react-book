@@ -1,0 +1,9 @@
+ReactDOM.render(
+  <div>
+    <h1>Batman</h1>
+    <h1>Iron Man</h1>
+    <h1>Nicholas</h1>
+    <h1>Mega Man</h1>
+   </div>,
+   destination
+   );
